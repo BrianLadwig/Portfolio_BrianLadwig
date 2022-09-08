@@ -1,0 +1,18 @@
+@use'../variables'as *;
+
+.Footer {
+    background-color: $dark;
+    color: $light;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+
+    a {
+        color: $light;
+        font-size: 2em;
+        margin: .2em .5em;
+    }
+}

@@ -1,0 +1,20 @@
+// @import './_variables.scss';
+@use 'variables' as *;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: $bg;
+    font-family:$Poppins ;
+    color: $dark;
+
+  
+}
+
+
+
+

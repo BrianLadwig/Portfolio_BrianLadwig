@@ -1,0 +1,96 @@
+@use'../../variables'as *;
+
+
+.Home {
+    color: $light;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        font-size: 3rem;
+        background: rgb(255, 255, 255);
+        background-image: url(../../assets/scott-webb-FEQEQrF5M10-unsplash.jpg);
+        background-size: 500px;
+        background-position: cover;
+        background-clip: text;
+        color: transparent;
+        animation-name: h1;
+        animation-duration: 12s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+
+        @include breakpoint(md) {
+            font-size: 5rem;
+        }
+
+        @keyframes h1 {
+            0% {
+                background-position: 0% 100%;
+            }
+
+            50% {
+                background-position: 50% 50%;
+            }
+
+            100% {
+                background-position: 100% 0%;
+            }
+
+
+        }
+    }
+
+    p {
+        color: hotpink;
+    }
+
+    p:last-child{
+        // background-color: hotpink;
+        width: 150px;
+        position: relative;
+        left: 70%;
+        @include breakpoint(md) {
+            left: 80%;
+        }
+    }
+
+
+    &__corner {
+        height: 2em;
+        width: 2em;
+    }
+
+    #ol {
+        position: absolute;
+        top: 5em;
+        left: 1em;
+        border-top: 1px solid $light;
+        border-left: 1px solid $light;
+    }
+
+    #or {
+        position: absolute;
+        top: 5em;
+        right: 1em;
+        border-top: 1px solid $light;
+        border-right: 1px solid $light;
+    }
+
+    #ul {
+        position: absolute;
+        bottom: 5em;
+        left: 1em;
+        border-bottom: 1px solid $light;
+        border-left: 1px solid $light;
+    }
+
+    #ur {
+        position: absolute;
+        bottom: 5em;
+        right: 1em;
+        border-bottom: 1px solid $light;
+        border-right: 1px solid $light;
+    }
+}
