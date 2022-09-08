@@ -29,7 +29,7 @@ const Project1 = () => {
       initial="init"
       animate="anim"
       exit="exit">
-      <Link to="/project4" id={style.link}>
+      <Link to="/Portfolio_BrianLadwig/project4" id={style.link}>
         <FaArrowCircleLeft />
       </Link>
 
@@ -63,7 +63,7 @@ The Project take place from the 30th of May to the 19th of July, 2022.
 
       </div>
 
-      <Link to="/project2" id={style.link}>
+      <Link to="/Portfolio_BrianLadwig/project2" id={style.link}>
         <FaArrowCircleRight />
       </Link>
 

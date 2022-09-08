@@ -30,7 +30,7 @@ const Project3 = () => {
       animate="anim"
       exit="exit"
     >
-      <Link to="/project2" id={style.link}>
+      <Link to="/Portfolio_BrianLadwig/project2" id={style.link}>
         <FaArrowCircleLeft />
       </Link>
 
@@ -56,7 +56,7 @@ const Project3 = () => {
         </a>
       </div>
 
-      <Link to="/project4" id={style.link}>
+      <Link to="/Portfolio_BrianLadwig/project4" id={style.link}>
         <FaArrowCircleRight />
       </Link>
     </motion.div>
