@@ -16,10 +16,10 @@ const Projects = () => {
       <div className={style.Projects__wrapper}>
         <AnimatePresence exitBeforEnter>
           <Routes location={location} key={location.key} >
-            <Route path="Portfolio_BrianLadwig" element={<Project1 />} />
-            <Route path="project2" element={<Project2 />} />
-            <Route path="project3" element={<Project3 />} />
-            <Route path="project4" element={<Project4 />} />
+            <Route path="/Portfolio_BrianLadwig" element={<Project1 />} />
+            <Route path="/project2" element={<Project2 />} />
+            <Route path="/project3" element={<Project3 />} />
+            <Route path="/project4" element={<Project4 />} />
           </Routes>
         </AnimatePresence>
       </div>

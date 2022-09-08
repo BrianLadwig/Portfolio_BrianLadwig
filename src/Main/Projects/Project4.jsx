@@ -63,7 +63,7 @@ const Project4 = () => {
         </a>
       </div>
 
-      <Link to="Portfolio_BrianLadwig" id={style.link}>
+      <Link to="/Portfolio_BrianLadwig" id={style.link}>
         <FaArrowCircleRight />
       </Link>
     </motion.div>
