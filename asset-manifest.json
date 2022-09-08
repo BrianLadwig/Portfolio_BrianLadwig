@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio_BrianLadwig/static/css/main.dcc2ac1f.css",
+    "main.js": "/Portfolio_BrianLadwig/static/js/main.c5ba40cc.js",
+    "static/media/georgios-kaleadis-aBTfTMsOCOI-unsplash.jpg": "/Portfolio_BrianLadwig/static/media/georgios-kaleadis-aBTfTMsOCOI-unsplash.e26eff9213a043cba7e2.jpg",
+    "static/media/scott-webb-FEQEQrF5M10-unsplash.jpg": "/Portfolio_BrianLadwig/static/media/scott-webb-FEQEQrF5M10-unsplash.9daf8daad2e32339d8c4.jpg",
+    "static/media/Loka2.png": "/Portfolio_BrianLadwig/static/media/Loka2.f80106b707877798b7dc.png",
+    "static/media/ChefBrian2.png": "/Portfolio_BrianLadwig/static/media/ChefBrian2.a735f361ca19db145ec0.png",
+    "static/media/IMG_20220804_091047_158.jpg": "/Portfolio_BrianLadwig/static/media/IMG_20220804_091047_158.b51b41c5ab8d2e346245.jpg",
+    "static/media/gitapi.png": "/Portfolio_BrianLadwig/static/media/gitapi.790e193319f0f65491d5.png",
+    "static/media/Identyfit.png": "/Portfolio_BrianLadwig/static/media/Identyfit.5fab2247235f7a2b0a0e.png",
+    "static/media/express-109.svg": "/Portfolio_BrianLadwig/static/media/express-109.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/nodejs.svg": "/Portfolio_BrianLadwig/static/media/nodejs.e55572852ea7a91f785f9c3a2102771a.svg",
+    "static/media/sass-1.svg": "/Portfolio_BrianLadwig/static/media/sass-1.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/react-2.svg": "/Portfolio_BrianLadwig/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/github-icon-1.svg": "/Portfolio_BrianLadwig/static/media/github-icon-1.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/bootstrap-4.svg": "/Portfolio_BrianLadwig/static/media/bootstrap-4.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/mongodb-icon-1.svg": "/Portfolio_BrianLadwig/static/media/mongodb-icon-1.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/logo-javascript.svg": "/Portfolio_BrianLadwig/static/media/logo-javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/git-icon.svg": "/Portfolio_BrianLadwig/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/npm.svg": "/Portfolio_BrianLadwig/static/media/npm.5066c092080d10750a0352c3a2f64c6c.svg",
+    "static/media/css-3.svg": "/Portfolio_BrianLadwig/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/Portfolio_BrianLadwig/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "index.html": "/Portfolio_BrianLadwig/index.html",
+    "static/media/framer-motion.svg": "/Portfolio_BrianLadwig/static/media/framer-motion.cd0e8acf350dd639e9e8c999f8539a5e.svg",
+    "main.dcc2ac1f.css.map": "/Portfolio_BrianLadwig/static/css/main.dcc2ac1f.css.map",
+    "main.c5ba40cc.js.map": "/Portfolio_BrianLadwig/static/js/main.c5ba40cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc2ac1f.css",
+    "static/js/main.c5ba40cc.js"
+  ]
+}
