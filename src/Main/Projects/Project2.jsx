@@ -30,7 +30,7 @@ const Project2 = () => {
       animate="anim"
       exit="exit"
     >
-      <Link to="/" id={style.link}>
+      <Link to="Portfolio_BrianLadwig" id={style.link}>
         <FaArrowCircleLeft />
       </Link>
 

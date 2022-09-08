@@ -1,9 +1,15 @@
 {
+
+
+  "homepage": "http://BrianLadwig.github.io/Portfolio_BrianLadwig",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^7.3.2",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
