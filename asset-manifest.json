@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_BrianLadwig/static/css/main.dcc2ac1f.css",
-    "main.js": "/Portfolio_BrianLadwig/static/js/main.4fc88802.js",
+    "main.css": "/Portfolio_BrianLadwig/static/css/main.37b19d4d.css",
+    "main.js": "/Portfolio_BrianLadwig/static/js/main.d8d1325b.js",
     "static/media/georgios-kaleadis-aBTfTMsOCOI-unsplash.jpg": "/Portfolio_BrianLadwig/static/media/georgios-kaleadis-aBTfTMsOCOI-unsplash.e26eff9213a043cba7e2.jpg",
     "static/media/scott-webb-FEQEQrF5M10-unsplash.jpg": "/Portfolio_BrianLadwig/static/media/scott-webb-FEQEQrF5M10-unsplash.9daf8daad2e32339d8c4.jpg",
     "static/media/Loka2.png": "/Portfolio_BrianLadwig/static/media/Loka2.f80106b707877798b7dc.png",
@@ -23,11 +23,11 @@
     "static/media/html-1.svg": "/Portfolio_BrianLadwig/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "index.html": "/Portfolio_BrianLadwig/index.html",
     "static/media/framer-motion.svg": "/Portfolio_BrianLadwig/static/media/framer-motion.cd0e8acf350dd639e9e8c999f8539a5e.svg",
-    "main.dcc2ac1f.css.map": "/Portfolio_BrianLadwig/static/css/main.dcc2ac1f.css.map",
-    "main.4fc88802.js.map": "/Portfolio_BrianLadwig/static/js/main.4fc88802.js.map"
+    "main.37b19d4d.css.map": "/Portfolio_BrianLadwig/static/css/main.37b19d4d.css.map",
+    "main.d8d1325b.js.map": "/Portfolio_BrianLadwig/static/js/main.d8d1325b.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcc2ac1f.css",
-    "static/js/main.4fc88802.js"
+    "static/css/main.37b19d4d.css",
+    "static/js/main.d8d1325b.js"
   ]
 }
