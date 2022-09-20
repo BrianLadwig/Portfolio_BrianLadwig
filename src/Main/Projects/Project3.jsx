@@ -1,11 +1,11 @@
-import { Link } from "react-router-dom";
-import identipic from "../../assets/ProjectPics/Identyfit.png";
-import style from "./Projects.module.scss";
-import { FaArrowCircleLeft } from "react-icons/fa";
-import { FaArrowCircleRight } from "react-icons/fa";
-import { BsGithub } from "react-icons/bs";
-import { MdWeb } from "react-icons/md";
-import { motion } from "framer-motion";
+import { Link } from 'react-router-dom'
+import identipic from '../../assets/ProjectPics/Identyfit.png'
+import style from './Projects.module.scss'
+import { FaArrowCircleLeft } from 'react-icons/fa'
+import { FaArrowCircleRight } from 'react-icons/fa'
+import { BsGithub } from 'react-icons/bs'
+import { MdWeb } from 'react-icons/md'
+import { motion } from 'framer-motion'
 
 const Project3 = () => {
   const containerVariants = {
@@ -17,10 +17,10 @@ const Project3 = () => {
       transition: { duration: 1.5 },
     },
     exit: {
-      x: "-100vw",
-      transition: { ease: "easeInOut" },
+      x: '-100vw',
+      transition: { ease: 'easeInOut' },
     },
-  };
+  }
 
   return (
     <motion.div
@@ -30,10 +30,6 @@ const Project3 = () => {
       animate="anim"
       exit="exit"
     >
-      <Link to="/Portfolio_BrianLadwig/project2" id={style.link}>
-        <FaArrowCircleLeft />
-      </Link>
-
       <div className={style.Projects__wrapper__projectCard__info}>
         <img src={identipic} alt="" />
 
@@ -54,13 +50,21 @@ const Project3 = () => {
           <BsGithub />
           Github
         </a>
+
+        <div
+          className={style.Projects__wrapper__projectCard__info__toggleProjects}
+        >
+          <Link to="/Portfolio_BrianLadwig/project2" id={style.link}>
+            <FaArrowCircleLeft />
+          </Link>
+
+          <Link to="/Portfolio_BrianLadwig/project4" id={style.link}>
+            <FaArrowCircleRight />
+          </Link>
+        </div>
       </div>
-
-      <Link to="/Portfolio_BrianLadwig/project4" id={style.link}>
-        <FaArrowCircleRight />
-      </Link>
     </motion.div>
-  );
-};
+  )
+}
 
-export default Project3;
+export default Project3

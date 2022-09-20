@@ -31,11 +31,4 @@ $headerHeight: 4em;
             @content;
         }
     }
-
-    @if $point == lg {
-        // 768px
-        @media (min-width: 48em) {
-            @content;
-        }
-    }
 }
